@@ -1,4 +1,4 @@
-#checks if a number is prime
+#checks if a number is prime 
 def isPrime(number): 
     if number<=1:
         return 0  #number is not a prime number
